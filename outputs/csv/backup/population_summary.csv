@@ -1,0 +1,11 @@
+2026-10-14T17:43:54.641889742Z main WARN The use of package scanning to locate Log4j plugins is deprecated.
+Please remove the `packages` attribute from your configuration file.
+See https://logging.apache.org/log4j/2.x/faq.html#package-scanning for details.
+2026-10-14T17:43:54.825841707Z main INFO Starting configuration org.apache.logging.log4j.core.config.properties.PropertiesConfiguration@436c81a3...
+2026-10-14T17:43:54.826169266Z main INFO Start watching for changes to jar:file:/home/sanketkumar/apache-hive-4.1.0-bin/lib/hive-beeline-4.1.0.jar!/beeline-log4j2.properties every 0 seconds
+2026-10-14T17:43:54.826495558Z main INFO Configuration org.apache.logging.log4j.core.config.properties.PropertiesConfiguration@436c81a3 started.
+2026-10-14T17:43:54.829858185Z main INFO Stopping configuration org.apache.logging.log4j.core.config.DefaultConfiguration@3514a4c0...
+2026-10-14T17:43:54.830633856Z main INFO Configuration org.apache.logging.log4j.core.config.DefaultConfiguration@3514a4c0 stopped.
+population_summary.census_year,population_summary.district_count,population_summary.total_population,population_summary.male_population,population_summary.female_population,population_summary.rural_population,population_summary.urban_population,population_summary.urbanization_percentage
+2001,26,50671017,26385577,24285440,31740767,18930250,37.36
+2011,26,60439692,31491260,28948432,34694609,25745083,42.6

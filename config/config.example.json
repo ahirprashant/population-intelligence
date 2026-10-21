@@ -1,0 +1,8 @@
+{
+  "project_name": "Population Intelligence",
+  "dataset_path": "data/raw/population.csv",
+  "processed_path": "data/processed",
+  "hdfs_raw_path": "/government-data/raw",
+  "hdfs_processed_path": "/government-data/processed",
+  "log_directory": "logs"
+}

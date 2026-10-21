@@ -1,0 +1,3 @@
+population_summary.census_year,population_summary.district_count,population_summary.total_population,population_summary.male_population,population_summary.female_population,population_summary.rural_population,population_summary.urban_population,population_summary.urbanization_percentage
+2001,26,50671017,26385577,24285440,31740767,18930250,37.36
+2011,26,60439692,31491260,28948432,34694609,25745083,42.6

@@ -1,0 +1,35 @@
+2026-10-14T17:44:04.143001666Z main WARN The use of package scanning to locate Log4j plugins is deprecated.
+Please remove the `packages` attribute from your configuration file.
+See https://logging.apache.org/log4j/2.x/faq.html#package-scanning for details.
+2026-10-14T17:44:04.262361774Z main INFO Starting configuration org.apache.logging.log4j.core.config.properties.PropertiesConfiguration@436c81a3...
+2026-10-14T17:44:04.262599501Z main INFO Start watching for changes to jar:file:/home/sanketkumar/apache-hive-4.1.0-bin/lib/hive-beeline-4.1.0.jar!/beeline-log4j2.properties every 0 seconds
+2026-10-14T17:44:04.262815252Z main INFO Configuration org.apache.logging.log4j.core.config.properties.PropertiesConfiguration@436c81a3 started.
+2026-10-14T17:44:04.265336146Z main INFO Stopping configuration org.apache.logging.log4j.core.config.DefaultConfiguration@3514a4c0...
+2026-10-14T17:44:04.265830640Z main INFO Configuration org.apache.logging.log4j.core.config.DefaultConfiguration@3514a4c0 stopped.
+growth_2001_2011.district,growth_2001_2011.population_2001,growth_2001_2011.population_2011,growth_2001_2011.population_change,growth_2001_2011.growth_percentage
+Junagadh,2448173,2743082,294909,12.05
+The Dangs,186729,228291,41562,22.26
+Jamnagar,1904278,2160119,255841,13.44
+Banas Kantha,2504244,3120506,616262,24.61
+Bhavnagar,2469630,2880365,410735,16.63
+Kachchh,1583225,2092371,509146,32.16
+Surat,4275540,6081322,1805782,42.24
+Vadodara,3641802,4165626,523824,14.38
+Mahesana,1837892,2035064,197172,10.73
+Ahmedabad,5816519,7214225,1397706,24.03
+Rajkot,3169881,3804558,634677,20.02
+Kheda,2024216,2299885,275669,13.62
+Surendranagar,1515148,1756268,241120,15.91
+Amreli,1393918,1514190,120272,8.63
+Panch Mahals,2025277,2390776,365499,18.05
+Bharuch,1370656,1551019,180363,13.16
+Sabar Kantha,2082531,2428589,346058,16.62
+Anand,1856872,2092745,235873,12.7
+Gandhinagar,1334455,1391753,57298,4.29
+Valsad,1410553,1705678,295125,20.92
+Navsari,1229463,1329672,100209,8.15
+Porbandar,536835,585449,48614,9.06
+Dahod,1636433,2127086,490653,29.98
+Narmada,514404,590297,75893,14.75
+Patan,1182709,1343734,161025,13.61
+Tapi,719634,807022,87388,12.14
